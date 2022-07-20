@@ -10,3 +10,4 @@ This project is a Bank System which displays the customers data present in datab
 
 </p>
 
+![Sparks-Bank](https://user-images.githubusercontent.com/56781823/180042548-50cc6110-f648-44bf-9b52-1fc8814b03ac.png)
