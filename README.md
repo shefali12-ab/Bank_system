@@ -6,7 +6,7 @@ Backened - PHP
 Database - MYSQL
 </h4>
 <p>
-This project is a Bank System which displays the customers data present in database and the Transaction History. We can also send money from one person to other.
+It is a Bank system with basic functionalities to view all the customers, view transaction history and transfer money
 
 </p>
 
